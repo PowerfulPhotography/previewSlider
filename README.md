@@ -27,7 +27,7 @@ Example of the html markup for image slider:
 ```html
 <div class="preview-slider">
     <div class="slider-wrapper">
-        <img class="slider-item" src="img/img1.jpg" alt=""></div>
+        <img class="slider-item" src="https://new.powerfulphotography.co.uk/wp-content/uploads/2019/03/port-14.jpg" alt=""></div>
         <img class="slider-item" src="img/img2.jpg" alt=""></div>
         <img class="slider-item" src="img/img3.jpg" alt=""></div>
     </div>
