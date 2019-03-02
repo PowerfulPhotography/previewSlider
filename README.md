@@ -52,7 +52,7 @@ Example of the html markup for conent slider:
 ```html
 <div class="preview-slider">
     <div class="slider-wrapper">
-        <div class="slider-item" style="background-image: url(img/img1.jpg)"></div>
+        <div class="slider-item" style="background-image: url(https://new.powerfulphotography.co.uk/wp-content/uploads/2019/03/port-14.jpg)"></div>
         <div class="slider-item" style="background-image: url(img/img2.jpg)"></div>
         <div class="slider-item" style="background-image: url(img/img3.jpg)"></div>
     </div>
